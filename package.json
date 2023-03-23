@@ -1,6 +1,6 @@
 {
   "name": "hello-world-javascript-action",
-  "version": "1.0.0",
+  "version": "v1.1",
   "description": "Testing JavaScript actions",
   "main": "index.js",
   "scripts": {
